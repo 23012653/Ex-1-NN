@@ -38,8 +38,8 @@ STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
 ```
-Developed by: VAISHNAVIDEVI V
-RegisterNumber: 212223040230
+Developed by: ANUBHARATHI SS
+RegisterNumber: 212223040017
 
 import pandas as pd
 import io
